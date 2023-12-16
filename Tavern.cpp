@@ -1,10 +1,10 @@
 /*
-CSCI235 Fall 2023
-Project 3 - Tavern Class
-Georgina Woo
+Project Tavern Class
+By Kyaw Win
 June 20 2023
 Taven.cpp declares the Tavern class along with its private and public members
 */
+
 #include "Tavern.hpp"
 #include "Character.hpp"
 
