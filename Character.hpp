@@ -1,7 +1,6 @@
 /*
-CSCI235 Summer 2023
-Project 4 - Stew of the Day
-Georgina Woo
+Project Stew of the Day
+By Kyaw Win
 June 29 2023
 Character.hpp declares the Character class along with its private and public members
 */
