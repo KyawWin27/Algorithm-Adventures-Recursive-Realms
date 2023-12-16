@@ -1,7 +1,7 @@
-/*Kyaw Win
-Project
-Tavern implementation for term Project 
-Sep 22, 2023
+/*
+Project Tavern class
+Tavern implementation for term Project
+By Kyaw Win
 */
 
 
