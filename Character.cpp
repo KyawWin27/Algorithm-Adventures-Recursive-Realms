@@ -1,8 +1,6 @@
 /*
-CSCI235 Fall 2023
-Project 4 - Stew of the Day
-Georgina Woo
-June 29 2023
+Project - Stew of the Day
+By Kyaw Win
 Character.cpp defines the constructors and private and public function implementation of the Character class
 */
 
